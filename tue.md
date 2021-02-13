@@ -47,7 +47,9 @@ These exercises are meant to be answered with text, based on internet searches s
 * **What is the address of your current DHCP-Server, and how did you find it?**  
     192.168.0.1 - Also found within ipconfig command.
 
-* **Explain (conceptually) about the TCP/IP-protocol stack**
-* **Explain about the HTTP Protocol (the following exercises will go much deeper into this protocol)**
-* **Explain (conceptually) how HTTP and TCP/IP are connected (what can HTTP do, and where does it fit into TCP/IP)**
-#
+* **Explain (conceptually) about the TCP/IP-protocol stack**  
+TCP/IP protocol helps you to determine how a specific computer should be connected to the internet and how data should be transmitted between them. It helps you to create a virtual network when multiple computer networks are connected together. The purpose of TCP/IP model is to allow communication over large distances.
+* **Explain about the HTTP Protocol (the following exercises will go much deeper into this protocol)**  
+The HTTP protocol or Hypertext Transfer Protocol is an application layer protocol which allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol.
+* **Explain (conceptually) how HTTP and TCP/IP are connected (what can HTTP do, and where does it fit into TCP/IP)**  
+    HTTP uses TCP to transport information to the web server.
