@@ -24,7 +24,7 @@ These exercises are meant to be answered with text, based on internet searches s
    * 443: HTTPS.
 * **What is the IP address of studypoints.info and how did you find it?**  
     The IP address of studypoints.info is: 157.230.21.145, I used the *ping* windows command to get my result.  
-    ![alt text](./pictures/studypointsinfo_ping.png "Usage of windows Ping Command")
+    ![alt text](https://github.com/Dyrhoi/dat3-flow1-week2/blob/master/pictures/studypointsinfo_ping.PNG?raw=true "Usage of windows Ping Command")
 
 * **If you write https://studypoints.info in your browser, how did “it” figure out that it should go to the IP address you discovered above?**  
     The DNS server has the domain name mapped to the IP address, therefore the browser knows where to retrieve the information from.
